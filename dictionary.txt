@@ -1,0 +1,262 @@
+abacus: A counting tool used for arithmetic calculations, consisting of a frame with rows of beads.
+aerodrome: An airfield or airport.
+agatha: A classic name, often evoking refinement and tradition.
+alchemy: A medieval forerunner of chemistry aiming to transform materials.
+allegory: A story or work of art with symbolic meaning beyond the literal.
+almanac: A yearly publication with weather forecasts and other data.
+antiquated: Outdated or obsolete; no longer in use.
+apothecary: A historical pharmacist or druggist who prepared and sold medicines.
+archaic: Old-fashioned; no longer in common use.
+archery: The sport or skill of shooting with a bow and arrow.
+ascot: A wide necktie, traditionally worn at formal events.
+astrolabe: An ancient instrument used to measure the altitude of stars and planets.
+balaclava: A knitted covering for the head and neck, leaving the face exposed.
+balderdash: Nonsense or ridiculous talk.
+bamboozle: To trick or deceive someone.
+barometer: An instrument measuring atmospheric pressure, used in weather prediction.
+bastion: A stronghold or fortified place.
+bateau: A flat-bottomed boat.
+bayonet: A blade attached to the muzzle of a rifle.
+bellhop: A hotel worker who assists with luggage.
+beret: A round, flat, soft cap, usually made of wool.
+bertram: A traditional male name, suggesting dignity.
+billiards: A cue sport played on a table with balls.
+biscuit: A small baked treat, typically crisp and sweet.
+blacksmith: A craftsman who works with metal, forging items like tools or horseshoes.
+bocce: An Italian lawn game similar to bowls.
+bohemian: A person or lifestyle unconventional and artistic.
+bonnet: A type of hat tied under the chin, often associated with older fashion.
+broth: A thin soup made by boiling meat, fish, or vegetables in water.
+buggy: A small carriage or lightweight vehicle, often horse-drawn.
+bustle: A framework or padding used to support the back of a skirt.
+calculus: A branch of mathematics focusing on change and motion.
+calligraphy: The art of beautiful, stylized writing.
+camisole: A sleeveless undergarment for women.
+candlestick: A holder for a single candle, often decorative.
+candor: The quality of being open and honest.
+caravan: A group of travelers or a vehicle for camping.
+cartographer: A person who creates maps.
+cartography: The art and science of map-making.
+cattywampus: Disorganized or askew.
+celestial: Relating to the sky or outer space.
+chandelier: A branched ornamental light fixture, usually hanging from the ceiling.
+chiffon: A lightweight, sheer fabric.
+chivalry: Medieval knighthood ideals including bravery and honor.
+chowder: A thick, creamy soup often containing seafood or vegetables.
+chronicle: A detailed, factual account of historical events in order.
+citadel: A fortress protecting a town or city.
+clementine: A sweet and elegant female name, also a type of fruit.
+clipper: A fast sailing ship from the 19th century.
+cloak: A loose outer garment that drapes over the shoulders.
+cobbler: A dessert made of fruit with a biscuit or pastry topping.
+cobbler: A shoemaker or someone who repairs shoes.
+codex: An ancient manuscript in book form.
+conquistador: A Spanish conqueror in the Americas.
+constellation: A grouping of stars forming a recognizable pattern.
+cooper: A craftsman who makes barrels, casks, and other wooden containers.
+corset: A close-fitting undergarment worn to shape the waist and support the bust.
+croquet: A lawn game involving hitting balls through hoops with mallets.
+crumpet: A small, round bread with a spongy texture, toasted and served with butter.
+cummerbund: A broad sash worn around the waist, typically with formal attire.
+custard: A creamy dessert made with eggs, milk, and sugar.
+daphne: A graceful name, derived from Greek mythology.
+darning: A sewing technique to repair holes in fabric.
+dialect: A regional or social variation of a language with distinct features
+dirge: A somber song or hymn of mourning.
+dirigible: A steerable airship.
+druggist: An older term for a pharmacist.
+dumpling: A small ball of dough, often filled or served in soups.
+dynamo: A machine that generates electricity.
+ebenezer: A strong, old-fashioned name meaning "stone of help."
+ecliptic: The apparent path of the sun across the sky over a year.
+ephemeral: Lasting for a very short time.
+epic: A long narrative poem about heroic deeds.
+equestrian: Relating to horse riding.
+fable: A short story with a moral, often featuring animals.
+farrier: A specialist in shoeing horses and caring for their hooves.
+fedora: A soft hat with a curled brim and creased crown.
+fergus: A bold, Celtic name meaning "man of force."
+ferry: A boat or ship used to transport people and goods across water.
+feudal: Relating to the medieval system of lords and vassals.
+fishmonger: A person who sells fish.
+flannel: A soft, woven fabric, typically of wool or cotton.
+flibbertigibbet: A frivolous or flighty person.
+floppy: Loose and flexible, lacking stiffness.
+folklore: Traditional beliefs, stories, and customs of a culture.
+fondue: A dish of melted cheese or chocolate in which food is dipped.
+foxhunting: The pursuit of a fox on horseback with hounds.
+frock: A loose garment, such as a dress.
+fuddy-duddy: A person with old-fashioned ideas or behavior.
+gabardine: A tightly woven fabric, often used for suits or coats.
+gadabout: Someone who frequently travels or moves about for pleasure.
+gaiters: Protective coverings for the lower legs.
+galvanometer: An instrument for detecting and measuring electric current.
+geology: The study of Earth's physical structure and history.
+gingham: A lightweight, checkered cotton fabric.
+gobbledygook: Language that is meaningless or hard to understand.
+gossamer: A fine, delicate fabric or material.
+gothic: A style characterized by intricate designs and pointed arches.
+gramophone: An early device for playing recorded sound, using vinyl records.
+gruel: A thin porridge made of boiled grain or cereal.
+gwendolyn: A lyrical name of Welsh origin.
+haberdasher: A seller of men’s clothing and accessories.
+handkerchief: A small square of fabric used for personal hygiene or decoration.
+hatbox: A storage box designed to hold and protect hats.
+havoc: Widespread destruction or chaos.
+hearth: The floor of a fireplace, often symbolizing home and warmth.
+heliocentric: Having the sun as the center, as in our solar system.
+heraldry: The art of designing and interpreting coats of arms.
+hobnob: To socialize or mix in a friendly way, often with those of higher status.
+hodgepodge: A mixture of different things.
+homburg: A formal hat with a crease along the crown.
+horace: A classic Roman name, connoting wisdom.
+hornswoggle: To cheat or deceive someone.
+illuminated: A manuscript decorated with elaborate designs or illustrations.
+imogen: A Shakespearean name, suggesting innocence.
+impromptu: Done without preparation.
+incense: A substance burned for its fragrant aroma, used in rituals or for relaxation.
+jasper: A timeless name linked to gemstones.
+jelly: A sweet, clear spread made from fruit juice and sugar.
+jousting: A medieval sport where knights fight on horseback with lances.
+jubilee: A special anniversary celebration.
+jukebox: A machine that plays music when coins are inserted.
+kaleidoscope: A tube containing mirrors and colorful objects, creating shifting patterns when turned.
+keepsake: An object kept as a memento.
+kimono: A traditional Japanese robe with wide sleeves.
+kinetics: The study of motion and forces.
+knickers: Women’s or girls’ undergarments that cover the lower body.
+knitting: The craft of making fabric by looping yarn with needles.
+lamplighter: A person responsible for lighting and extinguishing streetlamps.
+lampstand: A stand designed to hold a lamp.
+lancer: A soldier armed with a lance.
+lattice: A crisscrossed framework, often decorative.
+leopold: A regal, European name meaning "bold people."
+locomotive: A powered rail vehicle for pulling trains.
+lollygag: To dawdle or waste time.
+loom: A device used for weaving fabric.
+lute: A stringed musical instrument with a rounded body, used in medieval and Renaissance music.
+magnetism: The force of attraction or repulsion between magnetic materials.
+malarkey: Nonsense or foolish talk.
+manuscript: A handwritten or typed document, especially one prepared for publication.
+marmalade: A citrus fruit preserve, typically made with oranges.
+meringue: A dessert made from whipped egg whites and sugar, often baked.
+meteorology: The study of weather and atmospheric conditions.
+microscope: An optical device for magnifying small objects.
+millicent: A gentle name meaning "strength in work."
+milliner: A person who designs, makes, or sells hats.
+minstrel: A medieval entertainer who sang and played music.
+monocle: A single lens worn over one eye to aid vision.
+moorings: Anchoring points for a ship or boat.
+musketeer: A soldier armed with a musket.
+muskets: Early long-barreled guns used before the development of rifles.
+namby-pamby: Lacking strength or decisiveness; overly sentimental.
+nautical: Related to ships, navigation, or sailors.
+nostalgia: A sentimental longing for the past.
+obelisk: A tall, four-sided stone pillar with a pyramidal top.
+ode: A lyrical poem expressing strong emotion or admiration.
+omnibus: An early term for a bus or a book containing multiple works.
+optics: The branch of physics dealing with light and vision.
+oratory: A small chapel or the art of public speaking.
+ornate: Highly decorated or elaborate.
+paddleboat: A small boat powered by a paddle wheel.
+pagoda: A tiered tower, often part of an Asian temple.
+paisley: A fabric pattern with intricate teardrop shapes.
+parlor: A sitting room in a private house, traditionally used for entertaining guests.
+percival: A knightly name from Arthurian legend.
+petticoat: An undergarment worn under a skirt or dress.
+pewter: A metal alloy often used for decorative items.
+pewterer: A craftsman who works with pewter, a tin-based alloy.
+phonograph: A machine for reproducing sound from a grooved disc.
+picnicking: Eating a meal outdoors for leisure.
+ploughman: A person who guides a plow in farming.
+poppycock: Nonsense or trivial talk.
+porridge: A dish made by boiling oats or other grains in water or milk.
+preserves: Fruit cooked with sugar to create a thick spread.
+prose: Written or spoken language in its ordinary form.
+prudence: A name implying wisdom and foresight.
+pudding: A sweet or savory dish, often steamed or baked.
+quadrant: An early tool for measuring angles in navigation or astronomy.
+quaint: Charmingly old-fashioned.
+quatrain: A stanza of four lines, often with a specific rhyme scheme.
+quill: A writing tool made from a bird’s feather.
+quilting: The craft of sewing layers of fabric together to create a quilt.
+ragamuffin: A child in ragged, dirty clothes.
+razzmatazz: Showy, extravagant display or activity.
+reginald: A formal name meaning "counsel power."
+reverie: A state of being lost in pleasant thoughts.
+rhyme: A repetition of similar sounds in two or more words.
+rickshaw: A small, two-wheeled cart pulled by a person, common in Asia.
+rotary: A device or mechanism that rotates around a central axis.
+rupert: A charming name, often associated with elegance.
+satchel: A small bag with a strap, used for carrying books or personal items.
+scallywag: A mischievous or cheeky person.
+schooner: A type of sailing vessel with two or more masts.
+scones: A small, lightly sweetened bread, often served with jam and cream.
+scrimshaw: The art of carving or engraving on bone or ivory.
+scroll: A roll of parchment or paper for writing or decoration.
+seamstress: A woman who sews, especially professionally.
+serfdom: The feudal system of peasants working land for a lord.
+sewing: The act of stitching fabric together by hand or machine.
+sextant: A tool for determining latitude and longitude at sea.
+shindig: A lively party or celebration.
+shoeshine: The act of polishing shoes to make them shiny and clean.
+shortbread: A rich, crumbly biscuit made from butter, sugar, and flour.
+sidecar: A one-wheeled attachment to a motorcycle for carrying passengers.
+siege: A military blockade of a town or fortress.
+silversmith: A craftsman who works with silver to create objects or jewelry.
+skating: Moving on ice or a surface using skates.
+skedaddle: To leave quickly or run away.
+sleighing: Riding in a sleigh, often drawn by horses.
+sonnet: A 14-line poem with a specific rhyme scheme.
+souffle: A light, airy dish made with beaten eggs and flavored ingredients.
+spats: Cloth or leather coverings worn over the instep and ankle.
+spectacles: Glasses worn to correct vision or protect the eyes.
+spelunking: The exploration of caves.
+spindle: A slender rod used for spinning yarn or thread.
+spinster: An older term for an unmarried woman, often with a connotation of advanced age.
+stagecoach: A large, horse-drawn vehicle for long-distance travel.
+stanza: A grouped set of lines in a poem.
+steamboat: A boat propelled by steam power.
+stew: A dish of meat and vegetables cooked slowly in liquid.
+stiletto: A high-heeled shoe with a narrow, pointed heel.
+sundial: A device that tells the time using the position of the sun’s shadow.
+sybil: A mystical name, evoking the ancient oracles.
+tableau: A striking visual arrangement or scene.
+tableaux: A staged scene or group of figures, often stationary.
+tailor: A person who makes, alters, or repairs clothing.
+tanner: A craftsman who processes animal hides into leather.
+tapestry: A decorative woven fabric, often depicting scenes or patterns.
+tapestry: A richly woven decorative fabric.
+tatting: A technique for making lace with a shuttle.
+telescope: An optical instrument used for viewing distant objects, especially celestial bodies.
+telescopic: Designed for distant viewing, often using a telescope.
+thatcher: A person who builds or repairs thatched roofs.
+theodore: A strong, classic name meaning "gift of God."
+thermometer: A device for measuring temperature.
+tinker: A person who repairs metal utensils and household items.
+tobogganing: The act of sliding downhill on a toboggan.
+tomfoolery: Foolish or silly behavior.
+tramway: A track for streetcars or trams.
+trolley: A wheeled cart or a streetcar running on tracks.
+trousers: Clothing for the lower body, covering each leg separately.
+tureen: A large, deep dish for serving soups or stews.
+typewriter: A mechanical device for typing characters on paper.
+umbrella: A device with a collapsible canopy for protection against rain or sun.
+velvet: A soft, luxurious fabric with a dense pile on one side.
+verse: A line of poetry or metrical composition.
+vicinity: The area surrounding a place.
+viking: Norse seafarers known for exploration and raids.
+vinyl: A durable plastic material used for phonograph records.
+waistcoat: A sleeveless garment worn over a shirt and under a jacket.
+waxwork: A life-sized model of a person made from wax.
+whippersnapper: A young and inexperienced but presumptuous person.
+whistle-stop: A brief visit to a place, especially during a tour.
+whittling: Carving wood into shapes by shaving small pieces with a knife.
+windmill: A structure with blades that turn in the wind, used to generate power or grind grain.
+winifred: A sweet name meaning "peaceful friend."
+woodcarving: The craft of shaping wood into decorative or functional items.
+woodworker: A craftsman who makes items from wood.
+yeoman: A farmer owning and cultivating land.
+zany: Amusingly eccentric or clownish.
+zelda: A spirited, modern-sounding name with historic roots.
+zeppelin: A large, rigid airship.
