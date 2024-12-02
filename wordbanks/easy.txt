@@ -1,4 +1,5 @@
-abacus: A counting tool used for arithmetic calculations, consisting of a frame with rows of beads.
+# title: Easy Words
+abacus: A counting tool used for arithmetic calculations: consisting of a frame with rows of beads.
 aerodrome: An airfield or airport.
 agatha: A classic name, often evoking refinement and tradition.
 alchemy: A medieval forerunner of chemistry aiming to transform materials.
