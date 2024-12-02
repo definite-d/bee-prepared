@@ -1,4 +1,3 @@
-# title: Scripps National Spelling Bee - One Bee Difficulty
 gradual
 ferocious
 frequently
@@ -70,7 +69,7 @@ gargantuan
 salsa
 chaotic
 shrimp
-mandate
+mandate [noun]: An official or authoritative command; an order or injunction; a commission; a judicial precept; an authorization.
 turret
 pigeon
 satellite

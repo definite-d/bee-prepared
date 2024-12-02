@@ -97,9 +97,9 @@ class Word:
             self.part_of_speech = PartOfSpeech(self.part_of_speech)
 
     def __str__(self):
-        pronounciation = f" <{word.pronunciation}>" if word.pronunciation else ""
-        part_of_speech = f" [{word.part_of_speech}]" if word.part_of_speech else ""
-        definition = f": {word.definition}" if word.definition else ""
+        pronounciation = f" <{self.pronunciation}>" if self.pronunciation else ""
+        part_of_speech = f" [{self.part_of_speech}]" if self.part_of_speech else ""
+        definition = f": {self.definition}" if self.definition else ""
         return f"{self.word}{pronounciation}{part_of_speech}{definition}"
 
 
@@ -226,7 +226,7 @@ class WordBank:
         word.part_of_speech = part_of_speech
         word.definition = definition
 
-    def save_to_file(self, filepath: str | None):
+    def save_to_file(self, filepath: str | None = None):
         """
         Save the word bank to the specified file path or the original file path.
 
