@@ -1,5 +1,9 @@
 # Bee Prepared
 
+<img height="10%">![bee](https://github.com/user-attachments/assets/5ab302bc-1598-477f-815d-a9fff3248b52)</img>
+
+
+
 _A tool to help anyone practice spelling with ease and confidence. 🐝✨_
 
 Bee Prepared is an simple - yet effective - interactive Python-based spelling practice tool designed to help users hone their spelling skills. It provides random words from a dictionary file, reads them aloud, and allows users to type their spelling. The tool also tracks challenging words to help users focus on improving specific areas.
@@ -19,6 +23,7 @@ This project was created in under 1 hour to help prepare for the Bells Universit
 - **Custom Wordbank**: Use your own `wordbank.txt` file for personalized practice.
 - **Tracking Challenging Words**: Words you struggle with are recorded for later review.
 - **Real-Time Feedback**: Immediate feedback for correct or incorrect spelling.
+- **Automatic Definition Search**: Gets the definitions of words that aren't found in the given wordbank from [Wiktionary](https://wiktionary.org).
 - **Helpful Commands**:
   - `\h`: Help - Shows the help message.
   - `\a`: Again - Repeat the word.
@@ -42,11 +47,12 @@ A precompiled version is available for Windows as a GitHub release. Download it 
   - `pyttsx3`: Text-to-speech engine for Python
   - `pathlib`: Standard library for file handling
   - `random`: Standard library for generating random selections
+  - `httpx`: Web request library for getting definitions from [Wiktionary](https://wiktionary.org) via [their API](https://en.wiktionary.org/api/rest_v1/#/Page%20content/get_page_definition__term_).
 
 Install dependencies using:
 
 ```bash
-pip install pyttsx3
+pip install pyttsx3 httpx
 ```
 
 ---
