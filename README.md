@@ -8,7 +8,7 @@ Bee Prepared is an simple - yet effective - interactive Python-based spelling pr
 
 ## Purpose
 
-This project was created in under 1 hour to help prepare for the Bells University Student Association Spelling Bee, 2024. The words in the `dictionary.txt` file provided are sourced directly from that competition, making it a tailored solution for personal preparation.
+This project was created in under 1 hour to help prepare for the Bells University Student Association Spelling Bee, 2024.
 
 ---
 
@@ -16,14 +16,16 @@ This project was created in under 1 hour to help prepare for the Bells Universit
 
 - **Interactive Practice**: Practice spelling by typing the words you hear.
 - **Voice Assistance**: Words and definitions are read aloud using `pyttsx3`.
-- **Custom Dictionary**: Use your own `dictionary.txt` file for personalized practice.
+- **Custom Wordbank**: Use your own `wordbank.txt` file for personalized practice.
 - **Tracking Challenging Words**: Words you struggle with are recorded for later review.
 - **Real-Time Feedback**: Immediate feedback for correct or incorrect spelling.
 - **Helpful Commands**:
-  - `\a`: Repeat the word.
-  - `\d`: Get the definition of the word.
-  - `\n`: Skip to the next word.
-  - `\r`: Reveal the word.
+  - `\h`: Help - Shows the help message.
+  - `\a`: Again - Repeat the word.
+  - `\s`: Slowly - Repeat the word, slowly.
+  - `\d`: Define - Get the definition of the word.
+  - `\r`: Reveal - Reveal the word and move to the next word.
+  - `\q`: Quit - Quit the program.
 
 ---
 
@@ -54,17 +56,16 @@ pip install pyttsx3
 1. Clone this repository or download the source code:
 
    ```bash
-   git clone https://github.com/your-repo-name/spelling-bee-practice-tool.git
-   cd spelling-bee-practice-tool
+   git clone https://github.com/definite-d/bee-prepared.git
    ```
 
 2. Ensure Python and dependencies are installed.
 
-3. Add a `dictionary.txt` file in the same directory as the script. Each line must contain a word and its definition in the following format:
+3. Obtain a wordbank file. Each line must contain a word and its definition in the following format:
 
    ```
-   word: definition
-   example: a sample or model used to explain something
+   word <pronunciation> [part-of-speech]: definition
+   example <eg-zam-ple> [noun]: a sample or model used to explain something
    ```
 
 ---
@@ -74,22 +75,21 @@ pip install pyttsx3
 1. Run the program:
 
    ```bash
-   python spelling_bee.py
+   python -m bee-prepared
    ```
 
 2. Follow the on-screen instructions:
-   - Enter the path to your dictionary file (default: `dictionary.txt`).
+   - Enter the path to your dictionary file (default: `./wordbanks/easy.txt`).
    - Listen to the word spoken aloud.
    - Type the correct spelling or use commands for assistance.
 
-3. Exit the program anytime with `Ctrl+C`.
+3. Exit the program anytime with `Ctrl+C` or the `\q` (Quit) command.
 
 ---
 
 ## Example Session
 
 ```
-
 ██████╗ ███████╗███████╗
 ██╔══██╗██╔════╝██╔════╝
 ██████╔╝█████╗  █████╗
@@ -97,7 +97,7 @@ pip install pyttsx3
 ██████╔╝███████╗███████╗
 ╚═════╝ ╚══════╝╚══════╝
 
-██████╗ ██████╗ ███████╗██████╗  █████╗ ██████╗ ███████╗██████╗
+██████╗ ██████╗ ███████╗██████╗  █████╗ ██████╗ ███████╗██████╗ 
 ██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗
 ██████╔╝██████╔╝█████╗  ██████╔╝███████║██████╔╝█████╗  ██║  ██║
 ██╔═══╝ ██╔══██╗██╔══╝  ██╔═══╝ ██╔══██║██╔══██╗██╔══╝  ██║  ██║
@@ -105,21 +105,24 @@ pip install pyttsx3
 ╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝
 
 
-Bee Prepared v1.13
+Bee Prepared v1.15
 A Spelling Bee Practice Tool, by definite_d
 (https://github.com/definite-d/bee-prepared)
 
-Ctrl+C at any point to exit.
+Ctrl+C at any point to stop.
 Logo from Google's Noto Color Emoji 16.0
 
-Enter a path to a dictionary.txt file (default "dictionary.txt"):
-262 words were found in the given dictionary.
+Enter a path to a wordbank file: .\bee-prepared\wordbanks\scripps_three_bee.txt
 
-Let's begin.
+WordBank: Scripps National Spelling Bee - Three Bee Difficulty (141 words, 'D:\\Code\\Python\\Bee Prepared\\bee-prepared\\wordbanks\\scripps_three_bee.txt')
 
-Playing word *******...
-Type the word (\a: say again, \d: define, \n: next, \r: reveal): oratory
+Let's begin
+
+Playing word...
+Type the word or a command (\h for help): vermicelli
 Correct!
+Playing word...
+Type the word or a command (\h for help): 
 ```
 
 ---
